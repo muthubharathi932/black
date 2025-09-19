@@ -8,6 +8,7 @@ switch (a) {
             
             default:
             console.log('default')
+            case 3
             break 
 }
 
